@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">生活管家</string>
+    <string name="send">发送</string>
+    
+    <string-array name="welcome_tips">
+        <item>朋友，小精灵在此等候多时了！</item>
+        <item>朋友，近来一切安好！</item>
+        <item>亲爱的朋友，我想死你了！</item>
+        <item>欢迎回来，我亲爱的朋友！</item>
+        <item>我是小精灵，很高兴为您服务！</item>
+    </string-array>
+    
+</resources>
